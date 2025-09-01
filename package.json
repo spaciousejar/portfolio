@@ -9,14 +9,14 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@eslint/plugin-kit": "^0.2.7",
+		"@eslint/plugin-kit": "^0.3.5",
 		"@floating-ui/react-dom": "^2.1.1",
 		"@mdx-js/loader": "^3.1.0",
 		"@next/mdx": "^15.2.4",
 		"classnames": "^2.5.1",
 		"cookie": "^1.0.1",
 		"gray-matter": "^4.0.3",
-		"next": "^14.2.30",
+		"next": "^14.2.32",
 		"next-intl": "^3.26.5",
 		"next-mdx-remote": "^5.0.0",
 		"postcss": "^8.5.3",
@@ -36,7 +36,7 @@
 		"@types/node": "^22",
 		"@types/react": "^18",
 		"@types/react-dom": "^18",
-		"eslint": "^9.23.0",
+		"eslint": "^9.34.0",
 		"postcss-custom-media": "^11.0.5",
 		"postcss-flexbugs-fixes": "^5.0.2",
 		"typescript": "^5"
