@@ -1,38 +1,42 @@
 # Portfolio
 
-This portfolio repository showcases my projects and skills as a developer. It includes a variety of work that demonstrates my proficiency in different programming languages and frameworks.
-##
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-main-eta-five.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-![Portfolio Image](/public/images/portfolio.png)
+My personal portfolio website showcasing my projects, skills, and experience as a developer.
 
+## Live Demo
 
+Visit: [portfolio-main-eta-five.vercel.app](https://portfolio-main-eta-five.vercel.app/)
 
 ## Features
 
-- **Responsive Design**: The portfolio is designed to be fully responsive, ensuring a seamless experience on both desktop and mobile devices.
-- **Project Showcase**: Each project includes a description, technologies used, and links to live demos and source code.
-- **Contact Information**: A dedicated section for potential employers or collaborators to reach out.
+- **Responsive Design** — Fully responsive across desktop, tablet, and mobile
+- **Project Showcase** — Each project includes description, technologies used, and links to live demos and source code
+- **Skills Section** — Visual representation of my technical skills and proficiencies
+- **Contact Section** — Easy way for potential employers or collaborators to reach out
+- **Modern Stack** — Built with Next.js App Router, Tailwind CSS, and TypeScript
 
-## Technologies Used
+## Tech Stack
 
-- Next.js [View](https://nextjs.org)
-- Tailwind CSS [View](https://tailwindcss.com)
-- TypeScript [View](https://www.typescriptlang.org)
-- React [View](https://reactjs.org)
-- Node.js [View](https://nodejs.org)
-- Once UI [View](https://once-ui.com)
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Deployment:** Vercel
 
-# Contributing
+## Getting Started
 
-Contributions are welcome! If you would like to contribute to this portfolio, please follow these steps:
+```bash
+git clone https://github.com/spaciousejar/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear messages.
-4. Push your changes to your forked repository.
-5. Open a pull request detailing your changes and why they should be merged.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-Thank you for considering contributing to this project!
+## License
 
-
-
+MIT
